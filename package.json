@@ -1,6 +1,6 @@
 {
-  "name": "machine-uuid",
-  "version": "1.0.10",
+  "name": "find-or-create-uuid",
+  "version": "1.0.11",
   "description": "get machine's uuid",
   "main": "index.js",
   "bin": {
@@ -16,7 +16,7 @@
     "unique",
     "id"
   ],
-  "repository": "https://github.com/mhzed/machine-uuid",
+  "repository": "https://github.com/mtoth/machine-uuid",
   "author": "mhzed <mhzedd@gmail.com>",
   "license": "ISC",
   "dependencies": {
